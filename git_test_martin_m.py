@@ -5,4 +5,3 @@ if (x+a > 20):
 else:
     print("test2")
 print("jotainjotainjotain")
-print("jaajaajaajaa")
